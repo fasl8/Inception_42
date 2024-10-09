@@ -1,7 +1,21 @@
 # Inception
   
   ## Inception Guide:
-  1. [OS_virtualbox](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/1.OS_virtualbox.md)
+  1. [OS virtualbox](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/1.OS_virtualbox.md)
+  2. [Software OS](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/2.software_OS.md)
+  3. [Port forwarding to host](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/3.Port_forwarding_to_host.md)
+  4. [Cloud storage](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/4.cloud_storage.md)
+  5. [Inception](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/5.Inception.md)
+  6. [Certificates](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/6.certificates.md)
+  7. [Makefile](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/7.makefile.md)
+  8. [Docker Nginx](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/8.docker_nginx.md)
+  9. [Docker Mariadb](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/9.docker_mariadb.md)
+  10. [Docker Wordpress](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/10.docker_wordpress.md)
+  11. e
+  12. e
+  13. e
+  14. e
+  15. [Evealution Sheet](https://github.com/fasl8/Inception_42/blob/main/Inception_guide/15.evealution_sheet.md)
  
 
 # [Docker](https://learn.kodekloud.com/user/courses/docker-training-course-for-the-absolute-beginner):
